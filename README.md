@@ -12,7 +12,7 @@ Os itens adcionados serão listados em ordem, podendo ser marcada como feita ou 
 # Link para visualizar o projeto:
 
 Link utilizado o deploy build da Vercel para visualizar a página online:
-<a href="" target="_blank">Cliqui aqui para visualizar</a>
+<a href="https://lista-de-tarefas-vue3.vercel.app/" target="_blank">Cliqui aqui para visualizar</a>
 
 ## Recommended IDE Setup
 
