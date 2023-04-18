@@ -12,15 +12,7 @@ Os itens adcionados serão listados em ordem, podendo ser marcada como feita ou 
 # Link para visualizar o projeto:
 
 Link utilizado o deploy build da Vercel para visualizar a página online:
-<a href="https://lista-de-tarefas-vue3.vercel.app/" target="_blank">Cliqui aqui para visualizar</a>
-
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+<a href="https://lista-de-tarefas-vue3.vercel.app/" target="_blank">Clique aqui para visualizar</a>
 
 ## Project Setup
 
